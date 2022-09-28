@@ -2,7 +2,7 @@
 using namespace std;
 int main ()
 {
-	float a'b;
+	float DSEO_ a,DSEO_ b;
 	cout<<"Ingrese a b:";cin>>a>>b;
 	if(a>b)
 	{
