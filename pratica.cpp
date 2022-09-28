@@ -2,7 +2,7 @@
 using namespace std;
 int main ()
 {
-	float A,B,C;
+	float DSEO_ A,DSEO_ B,DSEO_C;
 	cin>>A>>B;
 	C=A+B;
 	cout<<C;
