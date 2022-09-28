@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	int i=0,l;
-	float x,s=0;
+	float DSEO_ x,DSEO_ s=0;
 	cout<<"Ingrese el limite l=";cin>>l;
 	do{
 
