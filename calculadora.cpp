@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	float x,y,s,m,d,r;
+	float DSEO_ x,DSEO_ y,DSEO_ s,DSEO_ m,DSEO_ d,DSEO_ r;
 	//Ingreso de datos
 	cout<<"Ingrese en valor de x=:";
 	cin>>x;
